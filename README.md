@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kosmineOdiseja
+- 👋 Hi, I’m @kosmineOdiseja - Alius Bosas.
 - 👀 I’m interested in React, Gatsby JS, NEXT JS, Astro!
 - 🌱 I’m currently learning  REACT JS, Python. Back-end.
 - 💞️ I’m looking to collaborate on ...
